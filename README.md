@@ -6,7 +6,7 @@
 [![FTC #14251](https://img.shields.io/badge/FTC%20Team-14251-black?style=for-the-badge)](https://github.com/CapitalRobotics)
 
 
-# FTC TeamCode Repository - Practice Bot "Error"
+# FTC #14521 Team Repository - Practice Bot "Error"
 
 ## Overview
 
