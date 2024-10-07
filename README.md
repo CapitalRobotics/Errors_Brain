@@ -1,8 +1,9 @@
+<img width="888" alt="Screenshot 2024-10-06 at 9 43 19 PM" src="https://github.com/user-attachments/assets/d0ca691f-c59f-4800-9e13-25d354ef12f7">
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 [![FTC #14251](https://img.shields.io/badge/FTC%20Team-14251-black?style=for-the-badge)](https://github.com/CapitalRobotics)
-<img width="888" alt="Screenshot 2024-10-06 at 9 43 19 PM" src="https://github.com/user-attachments/assets/d0ca691f-c59f-4800-9e13-25d354ef12f7">
 
 
 # FTC TeamCode Repository - Practice Bot "Error"
