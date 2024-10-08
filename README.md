@@ -5,6 +5,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 [![FTC #14251](https://img.shields.io/badge/FTC%20Team-14251-000000?style=for-the-badge&logo=databricks&logoColor=FFD700)](https://github.com/CapitalRobotics)
 
+
 # FTC #14521 Team Repository - Practice Bot "Error"
 
 ## Overview
