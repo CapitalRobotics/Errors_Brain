@@ -78,4 +78,7 @@ This code is shared under the MIT License. You are free to modify and share it, 
 
 Happy coding, and let's make our robot the best it can be!
 
+---
+(INTRO)[https://github.com/CapitalRobotics/Errors_Brain/blob/main/DOCS/INTRO.md]
+
 
